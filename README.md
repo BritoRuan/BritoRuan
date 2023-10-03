@@ -8,7 +8,7 @@
 
 <p align="justify">Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Jorge Amado, apaixonado por tecnologia e especializando-me em Desenvolvimento BACK-END com JavaScript e Node.js. Destaco-me pela proatividade, dedicação e pela constante busca pelo aprimoramento eficaz de minhas habilidades.</p>&nbsp;
 
-#### Linguagem
+#### Linguagens:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
