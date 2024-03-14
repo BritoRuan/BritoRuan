@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3390FF&height=120&section=header"/>
 
 # Olá, eu sou Ruan!
 
@@ -43,5 +42,3 @@
 #### Estudando no Momento: 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3390FF&height=120&section=footer"/>
