@@ -1,6 +1,6 @@
 # Hello, I'm Ruan!
 
-<p>Backend Software Developer</p>
+<p>Software Developer</p>
 
 ### GitHub Stats ⚡
 <div align="center">
