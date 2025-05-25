@@ -1,6 +1,6 @@
 # Ruan Brito
 
-### Backend Software Engineer | Pensando no Backend de Amanhã
+### Backend Software Engineer
 
 [![Gmail Badge](https://img.shields.io/badge/-ruan.desenvolvedor@gmail.com-00FFFF?style=flat-square&logo=Gmail&logoColor=212121&link=mailto:ruan.desenvolvedor@gmail.com)](mailto:ruan.desenvolvedor@gmail.com)
 
