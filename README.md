@@ -7,7 +7,7 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="25" height="25" />
-  Trabalho com .NET, TypeScript e AWS.
+  Trabalho com C#, TypeScript e AWS.
 </p>
 
 <p align="left">
